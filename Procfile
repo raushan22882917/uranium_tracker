@@ -1,0 +1,1 @@
+web: gunicorn uranium_project.wsgi
